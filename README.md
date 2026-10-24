@@ -1,4 +1,6 @@
 # Guia prático de Git e GitHub
+#Data da aula 24/10/26
+#Presentes: Eduardo, Gael, José, Pedro, Joás, Felipe Couto, Ricardo, Felipe Goulart
 
 Material de apoio da aula **Versionamento de código: boas práticas e comandos do GitHub**.
 Use este guia durante a atividade e depois, como referência rápida.
