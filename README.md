@@ -6,7 +6,7 @@ Material de apoio da aula **Versionamento de código: boas práticas e comandos 
 Use este guia durante a atividade e depois, como referência rápida.
 
 - Repositório da aula: <https://github.com/josepaes23/sudoku-game/>
-- Códigop de da atividade: Sudoku-game
+- Código da atividade: Sudoku-game
 - Código da atividade: [`gerenciador_notas.py`](gerenciador_notas.py) (contém **bugs de propósito**)
 - Verificador automático: [`test_gerenciador_notas.py`](test_gerenciador_notas.py)
 
